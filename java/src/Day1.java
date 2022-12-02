@@ -37,10 +37,10 @@ public class Day1 {
         }
         totalCalories.add(maxTotalCalories);
 
-        System.out.println("The maximum total calories is " + max3Int(totalCalories));
+        System.out.println("The maximum total calories is " + sumMax3Int(totalCalories));
     }
 
-    private static int max3Int(List<Integer> values) {
+    private static int sumMax3Int(List<Integer> values) {
         int max0 = values.get(0);
         int max1 = values.get(0);
         int max2 = values.get(0);
