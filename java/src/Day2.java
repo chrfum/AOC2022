@@ -36,6 +36,7 @@ public class Day2 {
                 line = reader.readLine();
             }
 
+            reader.close();
             System.out.println("The total score is " + score);
         } catch (IOException e) {
             e.printStackTrace();
