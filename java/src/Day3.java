@@ -78,6 +78,8 @@ public class Day3 {
 
                 line = reader.readLine();
             }
+
+            reader.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
