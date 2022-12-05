@@ -57,6 +57,7 @@ public class Day5 {
                 line = reader.readLine();
             }
 
+            reader.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
