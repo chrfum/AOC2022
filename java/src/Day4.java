@@ -21,6 +21,8 @@ public class Day4 {
 
                 line = reader.readLine();
             }
+
+            reader.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
