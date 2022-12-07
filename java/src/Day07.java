@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.TreeMap;
 import java.util.Map;
 
-public class Day07 {
+public class Day7 {
 
     public static void main(String []args) {
         BufferedReader reader;
