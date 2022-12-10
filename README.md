@@ -10,3 +10,4 @@ These are the execution times of my Java solutions.
 • <b>Day07</b>: ~0.597s<br>
 • <b>Day08</b>: ~0.623s<br>
 • <b>Day09</b>: ~0.726s<br>
+• <b>Day10</b>: ~0.547s<br>
