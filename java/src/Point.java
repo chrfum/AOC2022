@@ -25,4 +25,9 @@ public class Point {
         if (direction == 'R') this.y++;
         if (direction == 'L') this.y--;
     }
+
+    @Override
+    public String toString() {
+        return this.x + "," + this.y;
+    }
 }
