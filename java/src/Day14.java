@@ -1,7 +1,6 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-import java.util.ArrayList;
 
 public class Day14 {
 
@@ -17,7 +16,7 @@ public class Day14 {
                 else if (i == 0 && j == 500) row[j] = '+';
                 else row[j] = '.';
             }
-            
+
             matrix[i] = row;
         }
 
